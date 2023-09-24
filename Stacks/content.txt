@@ -1,0 +1,17 @@
+1. Implement queue using stacks
+2. Leetcode 622: Design a circular queue
+3. Prefix to infix conversion
+4. Postfix to prefix conversion
+5. Leetcode 503: Next Greater Element II
+6. Leetcode 42: Trapping Rainwater
+7. Leetcode 907: Sum of Subarray Minimums (n^2 and n approach)
+8. Leetcode 735: Asteroid collision
+9. Leetcode 946: Validate Stack Sequences
+10. Leetcode 895: Maximum frequency stack
+11. Leetcode 394: Decode string
+12. Leetcode 1209: Remove all adjacent duplicates in a string
+13. Leetcode 71: Simplify Path
+14. Leetcode 84: Largest rectangle in a histogram
+15. Leetcode 460: LFU Cache
+16. Leetcode 402: Remove K Digits
+17. Leetcode 456: 132 pattern
