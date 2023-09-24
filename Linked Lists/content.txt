@@ -1,0 +1,13 @@
+1. Leetcode 2130: Maximum Twin Sum of a linked list
+2. Leetcode 328: odd even linked list
+3. Sort a linked list of 0’s, 1’s and 2’s
+4. Add 2 no’s as linked list
+5. Sort a linked list
+6. Clone a list with random and next
+7. Flatten a linked list (time complexity -> n^2)
+8. Reverse nodes in groups of K.
+9. Swap nodes in pairs
+10. Reverse linked list II
+11. Design circular queue using arrays
+12. Merge K sorted linked lists (using heap)
+13. LFU Cache
