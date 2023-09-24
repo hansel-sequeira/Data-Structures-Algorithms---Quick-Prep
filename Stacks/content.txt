@@ -13,5 +13,4 @@
 13. Leetcode 71: Simplify Path
 14. Leetcode 84: Largest rectangle in a histogram
 15. Leetcode 460: LFU Cache
-16. Leetcode 402: Remove K Digits
-17. Leetcode 456: 132 pattern
+16. Leetcode 456: 132 pattern
