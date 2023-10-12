@@ -1,0 +1,25 @@
+1. Iterative postorder traversal
+2. Recursive level order traversal
+3. Inorder/Preorder/Postorder in one traversal
+4. Leetcode 543: Diameter of a binary tree
+5. Top view of a binary tree
+6. Leetcode 987: Vertical order traversal of a binary tree
+7. Leetcode 236: LCA of a binary tree - iterative approach
+8. Leetcode 222: Count total nodes in a complete binary tree
+9. Leetcode 863: All nodes distance K in binary tree
+10. Leetcode 105: Construct a binary tree from inorder and preorder traversal -> iterative & recursive
+11. Leetcode 114: Flatten binary tree to Linked List -> iterative & recursive (n^2 and n approach)
+12. Leetcode 297: Serialize and Deserialise Binary Tree -> deserialize in iterative approach
+13. Morris inorder/preorder traversal
+14. Leetcode 662: Maximum width of binary tree
+15. Leetcode 98: Validate Binary Search Tree
+16. Leetcode 10008: Construct a binary search tree from preorder traversal
+17. Leetcode 450: Delete node in a BST
+18. Leetcode 173: BST Iterator
+19. Leetcode 99: Recover BST
+20. Leetcode 337: House Robber III
+21. Leetcode 894: All possible binary trees
+22. Leetcode 95: Unique binary search trees II
+23. Leetcode 1993: Operations on Tree
+24. Leetcode 958: Check completeness of a binary tree
+25. Leetcode 427: Construct Quad Tree: Time complexity = n^2*logn
