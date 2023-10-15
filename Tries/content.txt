@@ -1,0 +1,6 @@
+1. Implement Trie II - codingninjas.
+2. Count distinct substrings - codingninjas. (Why map approach is less space efficient?)
+3. Leetcode 421: Maximum XOR of two numbers in an array
+4. Leetcode 1707: Maximum XOR with an element from array
+5. Leetcode 211: Design Add and Search Words Data Structure
+6. Leetcode 212: Word search II
