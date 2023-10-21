@@ -1,0 +1,11 @@
+1. Longest subarray with sum k (only positives) - codingninjas
+2. Leetcode 76: Minimum window substring
+3. Leetcode 1004: Max consecutive ones III
+4. Leetcode 904: Fruit into baskets (alternate approach)
+5. Leetcode 1358: Number of substrings containing all 3 characters
+6. Leetcode 1248: Count number of nice subarrays
+7. Minimum window subsequence - codingninjas
+8. Leetcode 992: Subarrays with k different integers
+9. Leetcode 424: Longest repeating character replacement
+10. Leetcode 1838: Frequency of the most frequent element
+11. Leetcode 1888: Minimum number of flips to make the binary string alternating
