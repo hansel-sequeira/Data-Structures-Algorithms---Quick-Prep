@@ -1,0 +1,6 @@
+1. Leetcode 22: Generate Parentheses
+2. Leetcode 39: Combination Sum (Time complexity: https://leetcode.com/problems/combination-sum/solutions/1755084/Detailed-Time-and-Space-Complecity-analysisc++javabacktracking/)
+3. Leetcode 40: Combination Sums 2
+4. Leetcode 51: N-Queens (Time complexity: O(n!))
+5. Leetcode 131: Palindrome Partitioning
+6. Leetcode 282: Expression Add Operators
