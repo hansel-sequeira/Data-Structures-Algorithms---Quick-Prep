@@ -1,0 +1,6 @@
+Count the number of set bits (codingNinjas)
+Set the rightmost unset bit (codingNinjas)
+Leetcode 231: Power of 2 {For unsigned numbers, vacant bits from the shift op are 0-filled. For signed numbers, it depends on the sign bit}
+Brian Kernighan’s algorithm
+Leetcode 29: Divide two integers
+L to R XOR (codingNinjas)
